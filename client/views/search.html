@@ -1,0 +1,12 @@
+<div   style="width:700px; margin:auto" ng-controller="SearchCtrl">
+    <h1>Online search store</h1>
+    <table class="text-center">
+        <th colspan="2">Search</th>
+        <tr>
+            <td><input type="text" ng-model="search"></td><td><button class="btn btn-info" ng-click="searchBrandsColths();">Search</button></td>
+        </tr>
+        <tr>
+            <td class="2"><p ng-bind-html="result"></p></td>
+        </tr>
+    </table>
+</div>

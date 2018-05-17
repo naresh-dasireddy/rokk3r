@@ -1,0 +1,17 @@
+{
+  "name": "rokk3r",
+  "description": "evalution test",
+  "main": "server.js",
+  "authors": [
+    "Naresh Dasireddy"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.7.0",
+    "bootstrap": "^4.1.1",
+    "angular-ui-router": "^1.0.17",
+    "jQuery": "^3.3.1",
+    "angular-sanitize": "^1.7.0"
+  }
+}

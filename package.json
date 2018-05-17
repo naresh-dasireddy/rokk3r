@@ -1,0 +1,17 @@
+{
+  "name": "rokk3r",
+  "version": "1.0.0",
+  "description": "evalution test",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Naresh Dasireddy",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.1",
+    "underscore": "^1.9.0"
+  }
+}
